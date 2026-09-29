@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Anthony 👋</h1>
 
----
-
 ### ⚡ About
 
 Builder focused on **crypto, prediction markets, futures markets, agentic payments and quant finance**.
