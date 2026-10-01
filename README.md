@@ -12,6 +12,9 @@ Mostly working with **Rust 🦀 and Python 🐍**, around AI agents, quantitativ
 
 ### 🚧 Currently building
 
+🧭 **Noust OS**  
+A system for self-mastery that helps align how you live with who you intend to become.
+
 🧠 **[Lattice](https://lttc.app/)**  
 Prediction intelligence and reputation for markets.
 
@@ -26,7 +29,8 @@ AI agents for probabilistic market forecasting.
 ### 🧩 Into
 
 `Quant Finance` · `Prediction Markets` · `Systematic Trading`  
-`Crypto Infrastructure` · `Agentic Payments` · `Financial Systems`
+`Crypto Infrastructure` · `Agentic Payments` · `Financial Systems`  
+`Self-Mastery` · `Personal Systems`
 
 ---
 
